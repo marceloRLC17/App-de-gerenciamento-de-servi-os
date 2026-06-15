@@ -6,6 +6,9 @@ Aplicativo desenvolvido em React Native para gerenciamento de serviços, pedidos
 
 ## Screenshots
 
+
+<p align="center">
+
 ### Lista de pedidos
 
 <img src="./screenshots/lista_pedidos.jpg" width="250">
@@ -17,6 +20,7 @@ Aplicativo desenvolvido em React Native para gerenciamento de serviços, pedidos
 ### Controle de parcelas
 
 <img src="./screenshots/controle_parcelas.jpg" width="250">
+</p>
 
 ## Funcionalidades
 
