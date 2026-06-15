@@ -12,7 +12,7 @@ Aplicativo desenvolvido em React Native para gerenciamento de serviços, pedidos
 
 <p align="center">
   <img src="./screenshots/lista_pedidos.jpg" width="250">
-  <img src="./screenshots/cadastro_pedido.jpg" width="250">
+  <img src="./screenshots/cadastro_pedido.jpg" width="250" padding-left: 15px; padding-right: 15px;>
   <img src="./screenshots/controle_parcelas.jpg" width="250">
 </p>
 
