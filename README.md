@@ -8,15 +8,15 @@ Aplicativo desenvolvido em React Native para gerenciamento de serviços, pedidos
 
 ### Lista de pedidos
 
-![Lista de pedidos](./screenshots/lista_pedidos.jpg)
+<img src="./screenshots/lista_pedidos.jpg" width="250">
 
 ### Cadastro do pedido
 
-![Detalhes](./screenshots/cadastro_pedido.jpg)
+<img src="./screenshots/cadastro_pedido.jpg" width="250">
 
 ### Controle de parcelas
 
-![Parcelas](./screenshots/controle_parcelas.jpg)
+<img src="./screenshots/controle_parcelas.jpg" width="250">
 
 ## Funcionalidades
 
